@@ -1,0 +1,10 @@
+Script started on 2022-06-26 16:19:20+03:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="201" LINES="53"]
+]0;muusitalo@LAPTOP-1TJ2LS6F: ~/git/osa12-full-stack-open-palautukset[01;32mmuusitalo@LAPTOP-1TJ2LS6F[00m:[01;34m~/git/osa12-full-stack-open-palautukset[00m$ docker container run -it ubuntu bash
+[?2004h]0;root@407c21022265: /root@407c21022265:/# [K]0;root@407c21022265: /root@407c21022265:/# mkdir usrc/     /usr/src/app
+[?2004l[?2004h]0;root@407c21022265: /root@407c21022265:/# touch /usr/src/app/index.js
+[?2004l[?2004h]0;root@407c21022265: /root@407c21022265:/# [Kexit
+[?2004lexit
+e]0;muusitalo@LAPTOP-1TJ2LS6F: ~/git/osa12-full-stack-open-palautukset[01;32mmuusitalo@LAPTOP-1TJ2LS6F[00m:[01;34m~/git/osa12-full-stack-open-palautukset[00m$ exit
+exit
+
+Script done on 2022-06-26 16:20:02+03:00 [COMMAND_EXIT_CODE="0"]
