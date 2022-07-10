@@ -4,7 +4,9 @@
   "private": true,
   "scripts": {
     "start": "node ./bin/www",
-    "dev": "nodemon ./bin/www"
+    "dev": "nodemon ./bin/www",
+    "dev:compose:up": "docker-compose -f docker-compose.dev.yml up -d",
+    "dev:compose:down": "docker-compose -f docker-compose.dev.yml down"
   },
   "dependencies": {
     "cors": "^2.8.5",
